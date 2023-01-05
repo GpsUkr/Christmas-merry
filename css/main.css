@@ -808,8 +808,8 @@ body.modal-open {
   display: block;
   top: 20%;
   left: 50%;
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url(../../img/Mobile/c5541f30254151bec6036ce36d235f42.gif);
-  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../../img/Mobile/c5541f30254151bec6036ce36d235f42.gif);
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url(../img/Mobile/c5541f30254151bec6036ce36d235f42.gif);
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../img/Mobile/c5541f30254151bec6036ce36d235f42.gif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
